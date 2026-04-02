@@ -19,19 +19,13 @@ Requires [Node.js](https://nodejs.org/en/download/) v14+.
 Global install of the latest release:
 
 ```sh
-# Install from npm
-npm i lv_font_conv -g
-# Install from GitHub (master branch)
-npm i lvgl/lv_font_conv -g
+npm i github:flipperdevices/lv_font_conv#flipper-tweaks -g
 ```
 
 Run via [npx](https://www.npmjs.com/package/npx) without installing:
 
 ```sh
-# From npm
-npx lv_font_conv -h
-# From GitHub master
-npx github:lvgl/lv_font_conv -h
+npx github:flipperdevices/lv_font_conv#flipper-tweaks -h
 ```
 
 `npx` downloads dependencies on first use, so the initial run can take a moment.
