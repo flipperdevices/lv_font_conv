@@ -1,6 +1,6 @@
 {
   "name": "lv_font_conv",
-  "version": "1.5.3",
+  "version": "1.5.3-flipper",
   "description": "Rasterize vector fonts for embedded use. Supports subsettings and merge.",
   "repository": "lvgl/lv_font_conv",
   "license": "MIT",
